@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,eclipse,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,eclipse,linux
 
+tomcat_image
+
 ### Eclipse ###
 .metadata
 bin/
